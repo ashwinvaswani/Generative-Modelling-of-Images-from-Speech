@@ -1,6 +1,6 @@
 # Generative-Modelling-of-Images-from-Speech
 
-Pytorch and Keras implementations of the paper the paper 'Speech2Face: Learning the face behind a voice" 
+Pytorch and Keras implementations of the paper - 'Speech2Face: Learning the face behind a voice" 
 
 ## Dataset
 
